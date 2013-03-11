@@ -1,12 +1,13 @@
 # Resume
+
 Ryan Cross
-cross.ryan.n@gmail.com
+
 Seattle, WA
 
 ## Qualifications
-Well versed in applying natural language processing and machine learning techniques to real-world problems.
-Skilled in designing and maintaining high quality software.
-Broad knowledge of linguistics and world languages with experience solving language-specific challenges.
+* Well versed in applying natural language processing and machine learning techniques to real-world problems.
+* Skilled in designing and maintaining high quality software.
+* Broad knowledge of linguistics and world languages with experience solving language-specific challenges.
 
 ## Work Experience
 ### Nuance Communications | Software Engineer and Computational Linguist | 2011 - present
