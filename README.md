@@ -1,7 +1,4 @@
-# Resume
-
-Ryan Cross
-
+# Ryan Cross
 Seattle, WA
 
 ## Qualifications
